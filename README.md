@@ -93,5 +93,3 @@ west flash
 
 **Tip:**  
 If you do not see logs, double-check your UART/COM port connection and terminal settings.
-
-Let me know if you need a PDF or markdown file for this guide!
