@@ -3,8 +3,8 @@
 > **Private Guide** — For internal use only
 >
 > Author: Hamas Saeed\
-> Email: [[your-email@example.com](mailto\:hamas888@gmail.com)]\
-> GitHub: [https://github.com/yourgithub](https://github.com/Hamas888)
+> Email: [your-email@example.com](mailto\:hamas888@gmail.com)\
+> GitHub: [Hamas888](https://github.com/Hamas888)
 
 ---
 
