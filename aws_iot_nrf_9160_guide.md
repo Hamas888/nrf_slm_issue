@@ -1,9 +1,7 @@
 # AWS IoT Setup for nRF9160 DK via SLM
 
-> **Private Guide** — For internal use only
->
 > Author: Hamas Saeed\
-> Email: [your-email@example.com](mailto\:hamas888@gmail.com)\
+> Email: [hamasaeed888@gmail.com](mailto\:hamasaeed888@gmail.com)\
 > GitHub: [Hamas888](https://github.com/Hamas888)
 
 ---
@@ -174,12 +172,3 @@ AT#XMQTTCON=0
 ```
 
 ---
-
-## 🧾 License
-
-Private documentation prepared by **Hamas Saeed** for AWS IoT client project using Nordic nRF9160 DK.
-
----
-
-*End of Guide*
-
